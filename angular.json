@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ANgularUdemy"
+    }
+  },
+  "defaultProject": "ANgularUdemy",
+  "cli": {
+    "analytics": "37162b55-a18e-426a-a6b9-cd4822d7e64b"
+  }
 }
